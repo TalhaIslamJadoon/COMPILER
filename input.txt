@@ -1,0 +1,4 @@
+int a;
+for(int a=3; a<b ; a++){
+ a = b+3;
+}
